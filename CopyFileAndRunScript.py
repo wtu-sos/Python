@@ -1,7 +1,7 @@
 # coding=utf-8
-# �����Լ�����Ҫ�޸Ĺ�����ļ�ת�ƽű� �󲿷���ԭ������ͬ��
-# ����ű��ص����ļ�����
-# ԭ������ http://www.cnblogs.com/sld666666/archive/2011/01/05/1926282.html
+# 根据自己的需要修改过后的文件转移脚本 大部分与原功能相同
+# 加入脚本回调，文件过滤
+# 原文链接 http://www.cnblogs.com/sld666666/archive/2011/01/05/1926282.html
 import os 
 import os.path 
 import shutil 
